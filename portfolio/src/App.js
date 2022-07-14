@@ -1,12 +1,11 @@
 import React from 'react';
-import './App.css';
-
+import ResponsiveAppBar from './components/nav';
 function App() {
   return (
-    <div className="App">
-      <h1>this is a sample site</h1>
-    </div>
-  );
+    <>
+      <ResponsiveAppBar />
+    </>
+  )
 }
 
 export default App;
