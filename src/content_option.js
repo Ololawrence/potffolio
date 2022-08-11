@@ -94,10 +94,10 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://picsum.photos/https://res.cloudinary.com/aaaaaaaa123/image/upload/v1660221937/portfolio/online_tfrywl.png/?grayscale",
     desctiption:
-      "Shopifies is a clone of an eccomerce website with basic functionality and fullu responsive",
-    link: "#",
+      "Shopifies is a clone of an eccomerce website with basic functionality and fully responsive",
+    link: "https://shopifies.netlify.app/",
   },
   {
     img: "https://picsum.photos/400/800/?grayscale",
@@ -117,7 +117,6 @@ const dataportfolio = [
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
   },
-
 ];
 
 const contactConfig = {
