@@ -94,7 +94,7 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/https://res.cloudinary.com/aaaaaaaa123/image/upload/v1660221937/portfolio/online_tfrywl.png/?grayscale",
+    img: "https://res.cloudinary.com/aaaaaaaa123/image/upload/v1660221937/portfolio/online_tfrywl.png",
     desctiption:
       "Shopifies is a clone of an eccomerce website with basic functionality and fully responsive",
     link: "https://shopifies.netlify.app/",
