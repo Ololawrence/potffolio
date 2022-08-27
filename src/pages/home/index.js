@@ -4,6 +4,7 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import Typewriter from "typewriter-effect";
 import { introdata, meta } from "../../content_option";
 import { Link } from "react-router-dom";
+import myImg from "../../assets/images/5589.jpg";
 
 export const Home = () => {
   return (
@@ -16,14 +17,22 @@ export const Home = () => {
         </Helmet>
         <div className="intro_sec d-block d-lg-flex align-items-center ">
           <div
+            id="img"
             className="h_bg-image order-1 order-lg-2 h-100 "
             style={{ backgroundImage: `url(${introdata.your_img_url})` }}
-          ></div>
+          >
+            <img src={myImg} width="200px" height="200px" className="img" />
+          </div>
           <div className="text order-2 order-lg-1 h-100 d-lg-flex justify-content-center">
             <div className="align-self-center ">
               <div className="intro mx-auto">
-                <h2 className="mb-1x">{introdata.title}</h2>
-                <h1 className="fluidz-48 mb-1x">
+                <h2 className="mb-1x" style={{ textTransform: "capitalize" }}>
+                  {introdata.title}
+                </h2>
+                <h1
+                  className="fluidz-48 mb-1x"
+                  style={{ textTransform: "capitalize" }}
+                >
                   <Typewriter
                     options={{
                       strings: [

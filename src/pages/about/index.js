@@ -27,7 +27,7 @@ export const About = () => {
         </Row>
         <Row className="sec_sp">
           <Col lg="5">
-            <h3 className="color_sec py-4 " >{dataabout.title}</h3>
+            <h3 className="color_sec py-4 ">{dataabout.title}</h3>
           </Col>
           <Col lg="7" className="d-flex align-items-center">
             <div>
@@ -35,8 +35,8 @@ export const About = () => {
             </div>
           </Col>
         </Row>
-        <Row className=" sec_sp">
-          <Col lg="5">
+        {/* <Row className=" sec_sp"> */}
+        {/* <Col lg="5">
             <h3 className="color_sec py-4">Work Timline</h3>
           </Col>
           <Col lg="7">
@@ -53,8 +53,8 @@ export const About = () => {
                 })}
               </tbody>
             </table>
-          </Col>
-        </Row>
+          </Col> */}
+        {/* </Row> */}
         <Row className="sec_sp">
           <Col lg="5">
             <h3 className="color_sec py-4">Skills</h3>
