@@ -13,7 +13,7 @@ const introdata = {
     third: "I develop web with reactjs",
   },
   description:
-    "One of my greatest desire is to see your business growing by taing advantage of web technology",
+    "I build exceptional applications that excellently solve problems faced by individual and organizations. i am currently building the future of tech as a freelancer.",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
@@ -94,10 +94,10 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://res.cloudinary.com/aaaaaaaa123/image/upload/v1660221937/portfolio/online_tfrywl.png",
     desctiption:
-      "Shopifies is a clone of an eccomerce website with basic functionality and fullu responsive",
-    link: "#",
+      "Shopifies is a clone of an eccomerce website with basic functionality and fully responsive",
+    link: "https://shopifiess.netlify.app",
   },
   {
     img: "https://picsum.photos/400/800/?grayscale",
@@ -117,7 +117,6 @@ const dataportfolio = [
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
   },
-
 ];
 
 const contactConfig = {
@@ -133,9 +132,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-  github: "https://github.com",
-  facebook: "https://facebook.com",
-  linkedin: "https://linkedin.com",
+  github: "https://github.com/Ololawrence",
+  facebook: "https://facebook.com/olorunwalawrence",
+  linkedin: "https://linkedin.com/in/olorunwa-lawrence-b88066178",
   //   twitter: "https://twitter.com",
   //   youtube: "https://youtube.com",
   //   twitch: "https://twitch.com",
