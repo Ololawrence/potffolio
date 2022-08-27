@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/potffolio/static/css/main.a11ed346.chunk.css",
+    "main.js": "/potffolio/static/js/main.11905f64.chunk.js",
+    "main.js.map": "/potffolio/static/js/main.11905f64.chunk.js.map",
+    "runtime-main.js": "/potffolio/static/js/runtime-main.fd4398fc.js",
+    "runtime-main.js.map": "/potffolio/static/js/runtime-main.fd4398fc.js.map",
+    "static/css/2.081f420c.chunk.css": "/potffolio/static/css/2.081f420c.chunk.css",
+    "static/js/2.b8897d40.chunk.js": "/potffolio/static/js/2.b8897d40.chunk.js",
+    "static/js/2.b8897d40.chunk.js.map": "/potffolio/static/js/2.b8897d40.chunk.js.map",
+    "static/js/3.aa83c1a7.chunk.js": "/potffolio/static/js/3.aa83c1a7.chunk.js",
+    "static/js/3.aa83c1a7.chunk.js.map": "/potffolio/static/js/3.aa83c1a7.chunk.js.map",
+    "index.html": "/potffolio/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/potffolio/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.a11ed346.chunk.css.map": "/potffolio/static/css/main.a11ed346.chunk.css.map",
+    "static/js/2.b8897d40.chunk.js.LICENSE.txt": "/potffolio/static/js/2.b8897d40.chunk.js.LICENSE.txt",
+    "static/media/5589.d4fe7625.jpg": "/potffolio/static/media/5589.d4fe7625.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd4398fc.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.b8897d40.chunk.js",
+    "static/css/main.a11ed346.chunk.css",
+    "static/js/main.11905f64.chunk.js"
+  ]
+}
