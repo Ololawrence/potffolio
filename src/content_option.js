@@ -20,22 +20,22 @@ const introdata = {
 const dataabout = {
   title: "Abit about my self",
   aboutme:
-    "2+ years experienced React Developer with hands on experience in identifying web-based user interactions along with designning and implementing highly responsive user interface components by deploying react concepts, proficient in translating designs and wireframes into high-quality code, and writing apllication interface code via javascript and reactjs workflow. adept at monitoring and maintaing frontend performance and troubleshooting and debugging the same to boister over performance.",
+    "3 years experienced React Developer with hands on experience in identifying web-based user interactions along with designning and implementing highly responsive user interface components by deploying react concepts, proficient in translating designs and wireframes into high-quality code, and writing apllication interface code via javascript and reactjs workflow. adept at monitoring and maintaing frontend performance and troubleshooting and debugging the same to boister over performance.",
 };
 const worktimeline = [
   {
     jobtitle: "Designer of week",
-    where: "YAdfi",
+    where: "",
     date: "2020",
   },
   {
     jobtitle: "Designer of week",
-    where: "Jamalya",
+    where: "",
     date: "2019",
   },
   {
     jobtitle: "Designer of week",
-    where: "ALquds",
+    where: "andela",
     date: "2019",
   },
 ];
@@ -96,27 +96,27 @@ const dataportfolio = [
   {
     img: "https://res.cloudinary.com/aaaaaaaa123/image/upload/v1660221937/portfolio/online_tfrywl.png",
     desctiption:
-      "Shopifies is a clone of an eccomerce website with basic functionality and fully responsive",
+      "Shopifies is a clone of an eccomerce website with basic functionality and  is it fully responsive",
     link: "https://shopifiess.netlify.app",
   },
-  {
-    img: "https://picsum.photos/400/800/?grayscale",
-    desctiption:
-      ".... is a website that display information about various crypo currency from two diffeerent apis",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption:
-      "this is a movie app the allows users to search for movies and  display informations about each movies searched for, and its fully responsive",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/600/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
+  // {
+  //   img: "https://picsum.photos/400/800/?grayscale",
+  //   desctiption:
+  //     ".... is a website that display information about various crypo currency from two diffeerent apis",
+  //   link: "#",
+  // },
+  // {
+  //   img: "https://picsum.photos/400/?grayscale",
+  //   desctiption:
+  //     "this is a movie app the allows users to search for movies and  display informations about each movies searched for, and its fully responsive",
+  //   link: "#",
+  // },
+  // {
+  //   img: "https://picsum.photos/400/600/?grayscale",
+  //   desctiption:
+  //     "The wisdom of life consists in the elimination of non-essentials.",
+  //   link: "#",
+  // },
 ];
 
 const contactConfig = {

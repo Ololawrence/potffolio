@@ -19,9 +19,15 @@ export const Home = () => {
           <div
             id="img"
             className="h_bg-image order-1 order-lg-2 h-100 "
-            style={{ backgroundImage: `url(${introdata.your_img_url})` }}
+            // style={{ backgroundImage: `url(${introdata.your_img_url})` }}
           >
-            <img src={myImg} width="200px" height="200px" className="img" />
+            <img
+              src={myImg}
+              width="200px"
+              height="200px"
+              className="img"
+              alt="user"
+            />
           </div>
           <div className="text order-2 order-lg-1 h-100 d-lg-flex justify-content-center">
             <div className="align-self-center ">
