@@ -86,7 +86,7 @@ const services = [
     //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
   },
   {
-    title: "Web Dveloper",
+    title: "Web Developer",
     // description:
     //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
   },
@@ -99,12 +99,12 @@ const dataportfolio = [
       "Shopifies is a clone of an eccomerce website with basic functionality and  is it fully responsive",
     link: "https://shopifiess.netlify.app",
   },
-  // {
-  //   img: "https://picsum.photos/400/800/?grayscale",
-  //   desctiption:
-  //     ".... is a website that display information about various crypo currency from two diffeerent apis",
-  //   link: "#",
-  // },
+  {
+    img: "https://res.cloudinary.com/aaaaaaaa123/image/upload/v1664287089/portfolio/shot_ztkbo2.png",
+    desctiption:
+      "Codingtechhub offers tech training for students, where student can register and view their courses ",
+    link: "https://www.codingtechhub.online/",
+  },
   // {
   //   img: "https://picsum.photos/400/?grayscale",
   //   desctiption:
