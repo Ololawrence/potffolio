@@ -1,12 +1,12 @@
 const logotext = "Olorunwa";
 const meta = {
-  title: "Olorunwa Lawrence",
+  title: "Emmanuel olorunwa Lawrence",
   description:
-    "I’m Olorunwa Lawrence front end devloper,currently working in as a freelancer",
+    "I’m Emmanuel Olorunwa Lawrence front end devloper,currently working in as a freelancer",
 };
 
 const introdata = {
-  title: "I’m Olorunwa Lawrence",
+  title: "I’m Emmanuel Olorunwa Lawrence",
   animated: {
     first: "I love coding",
     second: "I code cool websites",
